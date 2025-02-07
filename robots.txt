@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://luxurious-bed-sets-skmky.kinsta.page/sitemap.xml
